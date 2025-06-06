@@ -1,0 +1,56 @@
+| Class       | Font Size (px) | Line Height |
+| ----------- | -------------- | ----------- |
+| `text-sm`   | 14px           | 20px        |
+| `text-base` | 16px           | 24px        |
+| `text-lg`   | 18px           | 28px        |
+| `text-xl`   | 20px           | 28px        |
+| `text-2xl`  | 24px           | 32px        |
+| `text-3xl`  | 30px           | 36px        |
+| `text-4xl`  | 36px           | 40px        |
+| `text-5xl`  | 48px           | 1           |
+| `text-6xl`  | 60px           | 1           |
+
+
+
+| Class   | Padding Top |
+| ------- | ----------- |
+| `pt-0`  | `0px`       |
+| `pt-1`  | `4px`       |
+| `pt-2`  | `8px`       |
+| `pt-3`  | `12px`      |
+| `pt-4`  | `16px`      |
+| `pt-5`  | `20px`      |
+| `pt-6`  | `24px`      |
+| `pt-8`  | `32px`      |
+| `pt-10` | `40px`      |
+| `pt-12` | `48px`      |
+| `pt-16` | `64px`      |
+| `pt-20` | `80px`      |
+| `pt-24` | `96px`      |
+| `pt-32` | `128px`     |
+| `pt-40` | `160px`     |
+| `pt-64` | `256px`     |
+
+
+
+| Prefix | Screen Size    | Min Width |
+| ------ | -------------- | --------- |
+| `sm`   | Small          | `640px`   |
+| `md`   | Medium         | `768px`   |
+| `lg`   | Large          | `1024px`  |
+| `xl`   | Extra Large    | `1280px`  |
+| `2xl`  | 2× Extra Large | `1536px`  |
+
+
+
+| Class       | Font Size (px) | Line Height |
+| ----------- | -------------- | ----------- |
+| `text-sm`   | 14px           | 20px        |
+| `text-base` | 16px           | 24px        |
+| `text-lg`   | 18px           | 28px        |
+| `text-xl`   | 20px           | 28px        |
+| `text-2xl`  | 24px           | 32px        |
+| `text-3xl`  | 30px           | 36px        |
+| `text-4xl`  | 36px           | 40px        |
+| `text-5xl`  | 48px           | 1           |
+| `text-6xl`  | 60px           | 1           |
